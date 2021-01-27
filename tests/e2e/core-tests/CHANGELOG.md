@@ -5,7 +5,6 @@
 ## Added
 - Merchant Edit Order tests
 - Registered Shopper Checkout tests
-- Merchant Edit Order tests
 - Merchant Order Status Filter tests
 - Merchant Order Refund tests
 - Merchant Apply Coupon tests

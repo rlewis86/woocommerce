@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "95f29b23c1baa50f079597378d1673f1",
+    "content-hash": "df6d5046475444f1e677ff5c6a2d0df3",
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
@@ -455,9 +455,6 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-            "support": {
-                "source": "https://github.com/symfony/css-selector/tree/master"
-            },
             "time": "2017-05-01T15:01:29+00:00"
         },
         {
